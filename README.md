@@ -1,3 +1,5 @@
 # hello-world
-This is me learning about GitHub.
-I am learning how to write code.
+# <<<<<<< readme-edit
+# =======
+# This is ablindview learning about GitHub.
+# >>>>>>> master
