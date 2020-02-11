@@ -1,2 +1,5 @@
 # hello-world
-This is ablindview learning about GitHub.
+# <<<<<<< readme-edit
+# =======
+# This is ablindview learning about GitHub.
+# >>>>>>> master
